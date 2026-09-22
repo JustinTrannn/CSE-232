@@ -1,0 +1,9 @@
+attack  
+attack  
+attack  
+defend  
+attack  
+heal  
+heal  
+defend  
+attack
