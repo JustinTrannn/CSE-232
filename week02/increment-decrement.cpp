@@ -4,7 +4,11 @@
 int main() {
 
     int i {0};
-    ++i;
+    int i {0};
+    ++i;   // pre-increment: increment, then use value
+    i++;   // post-increment: use value, then increment
+    --i;   // pre-decrement: decrement, then use value
+    i--;   // post-decrement: use value, then decrement
     std::cout << i;
 
 

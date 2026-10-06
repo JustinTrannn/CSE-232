@@ -1,0 +1,15 @@
+4
+ann
+ben
+cal
+dee
+3
+ann ben
+ann cal
+ben dee
+exists ann
+exists dee
+exists zed
+friends ann
+friends dee
+friends zed

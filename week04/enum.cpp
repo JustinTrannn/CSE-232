@@ -21,6 +21,4 @@ int main() {
 
     std::cout << "Enum Value: " << static_cast<int>(pet) << "\n";
     return 0;
-
-    return 0;
 }

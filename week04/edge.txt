@@ -1,0 +1,38 @@
+9
+alice
+bob
+carol
+dave
+erin
+frank
+gina
+hank
+ivan
+10
+alice bob
+alice carol
+bob dave
+carol erin
+frank hank
+frank ivan
+hank ivan
+bob alice
+frank hank
+carol alice
+exists alice
+exists zed
+friends alice
+friends gina
+friends zed
+count gina
+count alice
+count zed
+mutual bob carol
+mutual alice zed
+mutual frank hank
+recommend alice
+recommend frank
+recommend gina
+recommend zed
+foo bar baz
+summary

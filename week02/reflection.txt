@@ -1,0 +1,14 @@
+Which compiler message confused you most, and what did the first line of it actually mean once you understood it?
+    None of them
+
+We made you silence the later doors instead of fixing the whole file at once. Why does that help? Describe a situation in your own future coding where you would do this without being told.
+    So you can see if there's errors for the first steps. I would do this in my future code if I had a lot of functions i needed to debug
+
+Door 2 and Door 3 both compiled and then stayed locked. How did you find each of those two bugs, and what could have caught them earlier?
+    I read what I had to do
+
+Name two things in doorkeeper.cpp you would change even though they work (style, naming, repetition, std::endl, anything).
+    The variable initialization
+
+You will keep receiving code you did not write, from teammates and from AI tools, and it will often be confidently commented and quietly wrong, like Doorkeeper. What did you do in this lab that you would do again with such code? What would you check first?
+    I would read all the code first to see what it's supposed to do
