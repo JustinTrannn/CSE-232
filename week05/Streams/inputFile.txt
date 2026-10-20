@@ -1,0 +1,3 @@
+This is a file with several words. Some of the words have five letters or more.
+There are newline characters
+and punctuation! This file has ten words that are five or more letters.
