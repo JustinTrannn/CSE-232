@@ -54,4 +54,6 @@ int main() {
   };
   // Note the input was a 2 x 3 matrix and the result should be a 3 x 4 
   std::cout << ( result == expected ) << '\n'; // Should output 1 (true)
+
+  return 0;
 }
